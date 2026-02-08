@@ -4,7 +4,7 @@ Code and notebook created by **Tom Le Ber**.
 
 Built an end-to-end pipeline (feature engineering + ridge regression and gradient boosting) to impute missing segments in daily electricity load curves from Enedis Linky smart meter, achieving the best performance in my AI course hackathon.
 
-Challenge project for the Enedis competition hosted on the ENS ChallengeData platform.
+Challenge project for the Enedis competition hosted on the ENS ChallengeData platform.  
 Challenge website: [https://challengedata.ens.fr/participants/challenges/160/](https://challengedata.ens.fr/participants/challenges/160/).
 
 ---
@@ -23,5 +23,5 @@ In short, the goal of this project is to reconstruct 24-hour electricity load cu
 
 All the code written in the Jupyter Notebook can be found in the `solution.py` and `utils.py` files in this same GitHub repository.
 
-Please note that the files `data/datasets/x_train.csv` and `data/datasets/x_test.csv` could not be included in this repository because they exceed GitHub’s allowed file size limit (100 MB).
+Please note that the files `data/datasets/x_train.csv` and `data/datasets/x_test.csv` could not be included in this repository because they exceed GitHub’s allowed file size limit (100 MB).  
 You must download them from the ChallengeData page and place them under `data/datasets/`.
